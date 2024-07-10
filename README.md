@@ -15,25 +15,32 @@ and open-source projects. I enjoy tackling challenging problems and continuously
 
 ## 🛠️ Skills
 
-### Programming Languages
-
-- **Rust**
-- **C++** *(& C)*
-- **TypeScript** *(& JavaScript)*
-- **Java**
-
-### Frameworks & Tools
-
-- **React**, **Preact** & **Angular**
-- **Node.js** (& [Bun](https://bun.sh))
-- **Git** (GitHub, Gitlab, Codeberg / Forgejo...)
-- **Docker** (w/ Swarm)
-
-### Other Skills
-
-- **Machine Learning** (TensorFlow, scikit-learn)
-- **Data Structures & Algorithms**
-- **Database Management** (MySQL, PostgreSQL, MariaDB, MongoDB...)
+<details>
+  <summary><b>Programming Languages</b></summary>
+  <ul>
+    <li>Rust</li>
+    <li>C++ / C</li>
+    <li>TypeScript / JavaScript</li>
+    <li>Java</li>
+  </ul>
+</details>
+<details>
+  <summary><b>Frameworks & Tools</b></summary>
+  <ul>
+    <li>React, Preact & Angular</li>
+    <li>Node.js / Bun</li>
+    <li>Git <i>(GitHub, Gitlab, Codeberg / Forgejo)</i></li>
+    <li>Docker <i>(w/ Swarm)</i></li>
+  </ul>
+</details>
+<details>
+  <summary><b>Other Skills</b></summary>
+  <ul>
+    <li>Machine Learning <i>(TensorFlow, scikit-learn)</i></li>
+    <li>Data Structures & Algorithms</li>
+    <li>Database Management <i>(MySQL, PostgreSQL, MariaDB, MongoDB)</i></li>
+  </ul>
+</details>
 
 ## 📈 GitHub Stats
 
@@ -45,22 +52,6 @@ and open-source projects. I enjoy tackling challenging problems and continuously
 - **Email**: [contact@brewen.dev](mailto:contact@brewen.dev)
 - **LinkedIn**: [@brewcoua](https://www.linkedin.com/in/brewcoua/)
 - **Mastodon**: [@brewcoua@mastodon.social](https://mastodon.social/@brewcoua)
-
-## 📝 Recent Projects
-
-### [webwisp](https://github.com/brewcoua/webwisp)
-An automated web agent for completing tasks on live websites.
-
-### [web-som](https://github.com/brewcoua/web-som)
-A Set-of-Marks script for web grounding, suitable for web agent automation.
-
-### [jb](https://github.com/brewcoua/jb)
-A CLI to install all JetBrains IDEs on Linux.
-
-## 🌟 Featured Repositories
-
-[![webwisp](https://github-readme-stats.vercel.app/api/pin/?username=brewcoua&repo=webwisp&theme=radical)](https://github.com/brewcoua/webwisp) <br />
-[![jb](https://github-readme-stats.vercel.app/api/pin/?username=brewcoua&repo=jb&theme=radical)](https://github.com/brewcoua/jb)
 
 ## 💬 Let's Connect!
 
