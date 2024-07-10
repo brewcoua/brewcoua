@@ -310,7 +310,7 @@ and open-source projects. I enjoy tackling challenging problems and continuously
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=brewcoua&show_icons=true&theme=default" />
-  </picture
+  </picture>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brewcoua&size_weight=0.0005&count_weight=0.3&layout=compact&theme=gruvbox"
