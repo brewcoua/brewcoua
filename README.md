@@ -26,7 +26,7 @@ and open-source projects. I enjoy tackling challenging problems and continuously
 - **LinkedIn**: [@brewcoua](https://www.linkedin.com/in/brewcoua/)
 - **Mastodon**: [@brewcoua@mastodon.social](https://mastodon.social/@brewcoua)
 
-## Languages & Tools
+## 🛠️ Languages & Tools
 
 <table>
 	<thead>
