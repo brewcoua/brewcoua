@@ -12,19 +12,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate Computer Science student with a strong interest in software development, machine learning,
-and open-source projects. I enjoy tackling challenging problems and continuously learning new technologies.
-
 - 🎓 Studying Computer Science at [University of Bordeaux](https://www.u-bordeaux.fr)
 - 💼 Open to internships and collaborative projects
 - 🌱 Currently learning more about cloud computing and DevOps
 - 🤝 Looking to collaborate on open source projects
-
-## 📫 How to Reach Me
-
-- **Email**: [contact@brewen.dev](mailto:contact@brewen.dev)
-- **LinkedIn**: [@brewcoua](https://www.linkedin.com/in/brewcoua/)
-- **Mastodon**: [@brewcoua@mastodon.social](https://mastodon.social/@brewcoua)
 
 ## 🛠️ Languages & Tools
 
@@ -323,9 +314,3 @@ and open-source projects. I enjoy tackling challenging problems and continuously
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brewcoua&size_weight=0.0005&count_weight=0.3&layout=compact&theme=default" />
   </picture>
 </p>
-
-## 💬 Let's Connect!
-
-Feel free to reach out if you're interested in collaborating or discussing technology. I'm always open to new opportunities and connections.
-
-Thanks for visiting my profile, and happy coding! 🚀
