@@ -293,24 +293,24 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=brewcoua&show_icons=true&theme=gruvbox"
+      srcset="https://gitstats-steel.vercel.app/api?username=brewcoua&show_icons=true&theme=gruvbox"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=brewcoua&show_icons=true&theme=default"
+      srcset="https://gitstats-steel.vercel.app/api?username=brewcoua&show_icons=true&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=brewcoua&show_icons=true&theme=default" />
+    <img width="600" height="200" src="https://gitstats-steel.vercel.app/api?username=brewcoua&show_icons=true&theme=default" />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brewcoua&size_weight=0.0005&count_weight=0.3&layout=compact&theme=gruvbox"
+      srcset="https://gitstats-steel.vercel.app/api/top-langs/?username=brewcoua&size_weight=0.0005&count_weight=0.3&layout=compact&theme=gruvbox"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brewcoua&size_weight=0.0005&count_weight=0.3&layout=compact&theme=default"
+      srcset="https://gitstats-steel.vercel.app/api/top-langs/?username=brewcoua&size_weight=0.0005&count_weight=0.3&layout=compact&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brewcoua&size_weight=0.0005&count_weight=0.3&layout=compact&theme=default" />
+    <img width="400" height="200" src="https://gitstats-steel.vercel.app/api/top-langs/?username=brewcoua&size_weight=0.0005&count_weight=0.3&layout=compact&theme=default" />
   </picture>
 </p>
